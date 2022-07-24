@@ -14,7 +14,7 @@ warnings.filterwarnings("ignore")
 # In[3]:
 
 
-animals=pd.read_csv("E:/Placement courses/ML Projects/Horse Survival/horse.csv")
+animals=pd.read_csv("horse.csv")
 
 
 # In[4]:
